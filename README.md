@@ -1,10 +1,10 @@
-This Idiot Repo :)) Use It.
-It's very Hard to Remember how to compile Fucking Pos Driver for Raspberry Pi. So i write all steps here for you. maybe when you want to install it the version od ubuntu changed! dont worry update your raspberry and enjoy!
+This Idiot Repo :)) Use It.<br/>
+It's very Hard to Remember how to compile Fucking Pos Driver for Raspberry Pi. So i write all steps here for you. maybe when you want to install it the version od ubuntu changed! dont worry update your raspberry and enjoy!<br/>
 
-A. Update your raspberry:
-A1. sudo apt-get update
-A2. sudo apt-get dist-upgrade
-A3. uname -a
+A. Update your raspberry:<br/>
+A1. sudo apt-get update<br/>
+A2. sudo apt-get dist-upgrade<br/>
+A3. uname -a<br/>
 
 I attached C files of the driver so clone them:
 B.  Clone Repository
